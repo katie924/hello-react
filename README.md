@@ -30,16 +30,14 @@ Next.js 還提供了一個優秀的開發體驗，包括熱模塊重載、TypeSc
 > 總結來說，Node.js 提供了一個運行環境，React 提供了構建用戶界面的能力，而 Next.js 則是在 React 基礎上提供了更多的功能和開發體驗，使得開發人員可以更加輕鬆地構建高性能的 Web 應用程序。
 
 # 執行 React 專案
-若要建立 React 專案，打開終端機導到想要建立專案的資料夾。
+想執行 React 專案，可依循以下步驟。
 1. 確保已安裝 Node.js：
 從 Node.js 官方網站下載：https://nodejs.org/en/download 。
 2. 建立 React 專案：
-    * 創建一個新的 React 專案，執行`npx create-react-app hello-react` 。
+    * 創建一個新的 React 專案，終端機導到想要建立專案的資料夾，執行`npx create-react-app hello-react` 。
     * 現有的 React 專案，執行`git clone`下載。
-
-想執行 React 專案，可依循以下步驟。
-1. 切換到專案資料夾：
+3. 切換到專案資料夾：
 以終端機指令`cd hello-react`，或是程式碼編輯器（如：VS Code）打開專案資料夾。
     * 若**第一次執行現有的 React 專案**，必須先執行一次`npm install`安裝專案的依賴項目。
-2. 運行 React 專案：
+4. 運行 React 專案：
 終端機中執行`npm start`，瀏覽器會自動開啟 http://localhost:3000 執行專案。
