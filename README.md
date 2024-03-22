@@ -33,8 +33,8 @@ Next.js 還提供了一個優秀的開發體驗，包括熱模塊重載、TypeSc
 想執行 React 專案，可依循以下步驟。
 1. 確保已安裝 Node.js：
 從 Node.js 官方網站下載：https://nodejs.org/en/download 。
-2. 建立 React 專案：
-    * 創建一個新的 React 專案，終端機導到想要建立專案的資料夾，執行`npx create-react-app hello-react` 。
+2. 建立 React 專案，終端機導到想要建立專案的資料夾：
+    * 創建一個新的 React 專案，執行`npx create-react-app hello-react` 。
     * 現有的 React 專案，執行`git clone`下載。
 3. 切換到專案資料夾：
 以終端機指令`cd hello-react`，或是程式碼編輯器（如：VS Code）打開專案資料夾。
