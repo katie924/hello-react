@@ -1,5 +1,7 @@
 # Hello React !
-React 是一個由 Facebook 開發的用於構建用戶界面的 JavaScript 庫。它旨在讓開發人員可以以組件化的方式構建大型且高性能的 Web 應用程序。React 使用一種稱為虛擬 DOM（Virtual DOM）的技術來實現快速的更新機制，從而提高了應用程序的性能。
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/512px-React_Logo_SVG.svg.png" alt="image" width="7%" height="auto">
+
+React 是一個由 Facebook 開發的用於構建用戶界面的 JavaScript 庫。它旨在讓開發人員可以以組件化的方式構建大型且高性能的 Web 用戶界面。React 使用一種稱為虛擬 DOM（Virtual DOM）的技術來實現快速的更新機制，使得應用程序在數據更改時能夠快速地重新渲染。
 
 React 具有以下特點：
 * 組件化：React 允許開發人員將用戶界面拆分為獨立的可重用組件，每個組件都負責管理自己的狀態和渲染邏輯。這使得代碼更具可維護性和可擴展性。
@@ -14,12 +16,6 @@ React 具有以下特點：
 Node.js 是一個基於 Chrome V8 引擎的 JavaScript 執行環境，使得 JavaScript 可以用於服務器端開發。
 它提供了一個跨平台的運行環境，使得開發人員可以使用 JavaScript 在服務器端編寫高效的代碼。
 Node.js 提供了一個豐富的標準庫和模組系統，使得開發人員可以輕鬆地構建服務器端應用程序和工具。
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/512px-React_Logo_SVG.svg.png" alt="image" width="7%" height="auto">
-
-React 是由 Facebook 開發的一個用於構建用戶界面的 JavaScript 庫。
-它允許開發人員通過組件化的方式來構建具有動態數據的高性能用戶界面。
-React 使用虛擬 DOM 技術來實現高效的更新機制，使得應用程序在數據更改時能夠快速地重新渲染。
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="image" width="12%" height="auto">
 
