@@ -40,4 +40,6 @@ Next.js 還提供了一個優秀的開發體驗，包括熱模塊重載、TypeSc
 以終端機指令`cd hello-react`，或是程式碼編輯器（如：VS Code）打開專案資料夾。
     * 若**第一次執行現有的 React 專案**，必須先執行一次`npm install`安裝專案的依賴項目。
 5. 運行 React 專案：
-終端機中執行`npm start`，瀏覽器會自動開啟 http://localhost:3000 執行專案。
+終端機中執行`npm start`，瀏覽器會自動開啟 http://localhost:3000 展現成果。
+
+> 這裡以不同分支來展現每個小專案的練習成果，查看 [Issues](https://github.com/katie924/hello-react/issues) 有進一步說明。
