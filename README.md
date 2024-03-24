@@ -34,8 +34,10 @@ Next.js 還提供了一個優秀的開發體驗，包括熱模塊重載、TypeSc
     * 創建一個新的 React 專案，執行`npx create-react-app hello-react` 。
 4. 切換到專案資料夾：
 以終端機指令`cd hello-react`，或是程式碼編輯器（如：VS Code）打開專案資料夾。
-    * 若**第一次執行現有的 React 專案**，必須先執行一次`npm install`安裝專案的依賴項目。
+    * 若**第一次執行現有的 React 專案**，必須先執行一次`npm install`安裝專案的使用套件。
+    * package.json 紀錄專案所下載的套件。
 5. 運行 React 專案：
 終端機中執行`npm start`，瀏覽器會自動開啟 http://localhost:3000 展現成果。
 
+執行`npm view react version`可查看版本，本專案為 18.2.0。
 > 這裡以不同分支來展現每個小專案的練習成果，查看 [Issues](https://github.com/katie924/hello-react/issues) 有進一步說明。
